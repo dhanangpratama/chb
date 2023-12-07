@@ -105,6 +105,10 @@
    /* Mobile */
   
   @media only screen and (max-width: 450px) {
+    body {
+        background: #FFFFFF;
+    }
+
     #linktree {
         margin-top: 0px;
         border-radius: 0px;
